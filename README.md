@@ -8,7 +8,8 @@ The objetive with this program was making a LiveSplit.Server information fetcher
 
 This code has been rushed and it's structure has been improvised, so don't hesitate to share refactoring suggestions!
 
-This program uses [`tkinter`](https://wiki.python.org/moin/TkInter) to serve a minimal GUI. The configuration can be altered by changing them directly from the `doodoo.py` file.
+This program uses [`tkinter`](https://wiki.python.org/moin/TkInter) to serve a minimal GUI.
+The configuration can be altered by changing it directly from the `doodoo.py` file. Settings should be self-explanatory.
 
 ## Getting started
 This program requires `Python 3` with `tkinter` to run. Once it has been installed, modify `doodoo.py`'s configuration to your needs. By default uses Livesplit's default fonts. The most important setting is `serverAddress`, that should point towards your server's IP and by default is `localhost`.
