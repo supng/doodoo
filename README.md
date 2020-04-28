@@ -1,6 +1,8 @@
 # 💩 doodoo
 a simple LiveSplit.Server Receiver.
 
+![screenshot](https://i.imgur.com/jsR1u46.png "A shot of the program running, duh")
+
 ## About
 The objetive with this program was making a LiveSplit.Server information fetcher in the most basic way. The primary use intended for this is to show the timer from a LAN connected device when there's no way too see it on the source device. For example if you only have one monitor and have to run a game fullscreen, you can see the timer on a laptop.
 
